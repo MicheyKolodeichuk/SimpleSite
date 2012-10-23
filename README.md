@@ -7,11 +7,11 @@ Simple Site - Простой обычный сайт
 Структура сайта : - MainPage.html )ахахах только один елемент
 Создатели:Миша Колодейчук и Виталий Головко ;)
 
------------------------------------------------------------------------------------------
+
 This site is still being tested and may need some time to create it.
 Creators: Mike Colodeiciuc and Vitaly Golovko;)
 Site structure: - MainPage.html  )hahahah only one element
------------------------------------------------------------------------------------------
+
 
 Контакты , Contacts:
 skype: updated20  - Миша Колодейчук , alfared321 - Виталий Головко
